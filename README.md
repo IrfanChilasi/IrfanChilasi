@@ -9,7 +9,7 @@
 
 ### Things that I love:
 - 📕 Teaching
-- 🖥️ Hacking
+- 🖥️ Ethical Hacking
 - 📕🖥️ Securing 
 - 📒 Learning stuff
 - 🌎 Spreading Awareness about Cybersecurity, scams & how to secure him/herself
@@ -20,7 +20,7 @@
 - Craftspersonship, inclusivity, community building, mentorship, menteeship, good vibes 🎵
 
 ### Certifications 📜
-OFSA | VMDR | CCFA |Penetrationtesting & Threat Analysis|
+OFSA | VMDR | CCFA |Penetrationtesting & Threat Analysis| Fundamental ofCybersecurity |
 
 #OFSA (OPSWAT File Security Associate)
 
