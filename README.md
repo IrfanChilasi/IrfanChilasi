@@ -10,6 +10,7 @@
 ### Things that I love:
 - 📕 Teaching
 - 🖥️ Ethical Hacking
+- 🖥📕Firewall Manager
 - 📕🖥️ Securing 
 - 📒 Learning stuff
 - 🌎 Spreading Awareness about Cybersecurity, scams & how to secure him/herself
