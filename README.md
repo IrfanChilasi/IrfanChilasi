@@ -1,7 +1,7 @@
 <div align=center> 
   <h1> Hi! I'm Muhammad Irfan 👋 </h1> 
 
-[![Medium](https://img.shields.io/badge/PMAT-Medium%20Profile!-purple?style=for-the-badge)](https://medium.com/@mirfan.off)
+[![Medium](https://img.shields.io/badge/MP-Medium%20Profile!-purple?style=for-the-badge)](https://medium.com/@mirfan.off)
 [![Website](https://img.shields.io/website?label=LinkedIn.Profile&style=for-the-badge&url=https%3A%2F%2Fhuskyhacks.dev)](https://www.linkedin.com/in/muhammad-irfan123/)
 [![Badges](https://img.shields.io/website?label=My.Security.Badges&style=for-the-badge&url=https%3A%2F%2FMy.Security.Badges)](https://www.credly.com/users/muhammad-irfan.7ab275d2/badges)
 </div>
