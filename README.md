@@ -16,7 +16,7 @@
 - 🌎 Spreading Awareness about Cybersecurity, scams & how to secure him/herself
 
 ### Where I'm Going 🧭
-- Looking for oppertunity in cybersecurity.
+- Looking for opportunity in cybersecurity.
 - Technical mastery of offensive skills for the betterment of the defensive community.
 - Craftspersonship, inclusivity, community building, mentorship, menteeship, good vibes 🎵
 
