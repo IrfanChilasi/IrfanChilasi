@@ -34,7 +34,6 @@ OFSA | VMDR | CCFA |Penetrationtesting & Threat Analysis| Fundamental ofCybersec
 #Fundamental of Cybersecurity
 
 ### OnGoing COURSES/Certifications 🎤
-CC(Certified in Cybersecurity from ISC2),
 CEH(Certified Ethical Hacker)
 ---
 
