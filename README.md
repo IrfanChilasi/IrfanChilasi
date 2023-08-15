@@ -10,19 +10,20 @@
 ### Things that I love:
 - 📕 Teaching
 - 🖥️ Ethical Hacking
-- 🖥📕Firewall Managing
+- 🖥📕Firewall(Fortigate)
 - 📕🖥️ Securing 
 - 📒 Learning stuff
 - 🌎 Spreading Awareness about Cybersecurity, scams & how to secure him/herself
 
 ### Where I'm Going 🧭
-- Looking for opportunity in cybersecurity.
+- Work as a cybersecurity expert.
 - Technical mastery of offensive skills for the betterment of the defensive community.
-- Craftspersonship, inclusivity, community building, mentorship, menteeship, good vibes 🎵
+- Craftspersonship, inclusivity, community building, mentorship, mentorship, good vibes 🎵
 
 ### Certifications 📜
-OFSA | VMDR | CCFA |Penetrationtesting & Threat Analysis| Fundamental ofCybersecurity |
+OFSA | VMDR | CCFA |Penetrationtesting & Threat Analysis| NSE-I-II-III |
 
+#NSE-1,2,3 Certified
 #OFSA (OPSWAT File Security Associate)
 
 #VMDR (Vulnerability Management Detection and Response)
@@ -30,12 +31,6 @@ OFSA | VMDR | CCFA |Penetrationtesting & Threat Analysis| Fundamental ofCybersec
 #CCFA(Certified Computer Forensics Analyst)
 
 #Penetrationtesting & Threat Analysis
-
-#Fundamental of Cybersecurity
-
-### OnGoing COURSES/Certifications 🎤
-CEH(Certified Ethical Hacker)
----
 
 ### 📕 Blog Posts
 
